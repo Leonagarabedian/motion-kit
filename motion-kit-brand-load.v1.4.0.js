@@ -115,7 +115,7 @@
         stagger: 0.16,
         delay: 0.15,
         rotationY: -360,
-        perspective: 500,
+        perspective: 400,
         ease: "power2.inOut",
         respectReducedMotion: true
       },
